@@ -1,6 +1,7 @@
+package wrapper_classes;
 import java.util.ArrayList;
 
-public class Main {
+public class WrapperClassExample1 {
   public static void main(String[] args) {
     ArrayList<Integer> myNumbers = new ArrayList<Integer>();
     myNumbers.add(10);

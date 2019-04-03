@@ -1,7 +1,8 @@
+package hash_map;
 // Import the HashMap class
 import java.util.HashMap;
 
-public class Main {
+public class OtherTypesHashMap {
   public static void main(String[] args) {
 
     // Create a HashMap object called people

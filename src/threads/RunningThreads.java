@@ -1,4 +1,6 @@
-public class Main extends Thread {
+package threads;
+
+public class RunningThreads extends Thread {
   public static void main(String[] args) {
     Main thread = new Main();
     thread.start();

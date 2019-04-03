@@ -1,4 +1,6 @@
-public class Main {
+package class_methods;
+
+public class ClassMethods {
   static void myMethod() {
     System.out.println("Hello World!");
   }

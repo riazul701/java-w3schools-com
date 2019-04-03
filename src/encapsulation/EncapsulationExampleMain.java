@@ -1,4 +1,6 @@
-public class Main {
+package encapsulation;
+
+public class EncapsulationExampleMain {
   public static void main(String[] args) {
     Person myObj = new Person();
     myObj.setName("John");

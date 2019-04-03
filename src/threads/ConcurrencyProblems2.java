@@ -1,4 +1,6 @@
-public class Main extends Thread {
+package threads;
+
+public class ConcurrencyProblems2 extends Thread {
   public static int amount = 0;
 
   public static void main(String[] args) {

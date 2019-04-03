@@ -1,4 +1,6 @@
-public class Main {
+package class_attributes;
+
+public class ModifyAttributes {
   int x;
 
   public static void main(String[] args) {

@@ -1,4 +1,6 @@
-public class Main {
+package modifiers;
+
+public class PrivateAccessModifier {
   private String fname = "John";
   private String lname = "Doe";
   private String email = "john@doe.com";

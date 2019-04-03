@@ -1,4 +1,6 @@
-public class Main {
+package method_parameters;
+
+public class MultipleParameters {
   static void myMethod(String fname, int age) {
     System.out.println(fname + " is " + age);
   }

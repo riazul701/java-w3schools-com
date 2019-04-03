@@ -1,4 +1,6 @@
-public class Main {
+package wrapper_classes;
+
+public class WrapperClassExample2 {
   public static void main(String[] args) {
     Integer myInt = 5;
     Double myDouble = 5.99;

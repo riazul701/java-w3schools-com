@@ -1,3 +1,5 @@
+package abstraction;
+
 // Abstract class
 abstract class Animal {
   // Abstract method (does not have a body)
@@ -16,7 +18,7 @@ class Pig extends Animal {
   }
 }
 
-class Main {
+class AbstractionExample {
   public static void main(String[] args) {
     Pig myPig = new Pig(); // Create a Pig object
     myPig.animalSound();

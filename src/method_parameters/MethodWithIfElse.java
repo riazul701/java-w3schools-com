@@ -1,4 +1,6 @@
-public class Main {
+package method_parameters;
+
+public class MethodWithIfElse {
 
   // Create a checkAge() method with an integer parameter called age
   static void checkAge(int age) {

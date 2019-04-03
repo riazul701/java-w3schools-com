@@ -1,4 +1,6 @@
-public class Main {
+package data_types;
+
+public class DataTypes1 {
   public static void main(String[] args) {
     int myNum = 5;               // integer (whole number)
     float myFloatNum = 5.99f;    // floating point number

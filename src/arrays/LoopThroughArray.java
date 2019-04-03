@@ -1,4 +1,6 @@
-public class Main {
+package arrays;
+
+public class LoopThroughArray {
   public static void main(String[] args) {
     String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
     for (int i = 0; i < cars.length; i++) {

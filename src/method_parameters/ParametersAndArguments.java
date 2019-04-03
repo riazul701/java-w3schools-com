@@ -1,4 +1,6 @@
-public class Main {
+package method_parameters;
+
+public class ParametersAndArguments {
   static void myMethod(String fname) {
     System.out.println(fname + " Refsnes");
   }

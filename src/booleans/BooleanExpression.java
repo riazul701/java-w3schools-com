@@ -1,4 +1,6 @@
-public class Main {
+package booleans;
+
+public class BooleanExpression {
   public static void main(String[] args) {
     int x = 10;
     int y = 9;

@@ -1,4 +1,6 @@
-public class Main {
+package variables;
+
+public class DisplayVariables2 {
   public static void main(String[] args) {
     String firstName = "John ";
     String lastName = "Doe";

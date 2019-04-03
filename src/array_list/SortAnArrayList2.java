@@ -1,7 +1,8 @@
+package array_list;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class SortAnArrayList2 {
   public static void main(String[] args) {
     ArrayList<Integer> myNumbers = new ArrayList<Integer>();
     myNumbers.add(33);

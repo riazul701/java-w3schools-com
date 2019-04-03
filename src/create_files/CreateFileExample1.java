@@ -1,7 +1,9 @@
+package create_files;
+
 import java.io.File;
 import java.io.IOException;
 
-public class CreateFile {
+public class CreateFileExample1 {
   public static void main(String[] args) {
     try {
       File myObj = new File("filename.txt");

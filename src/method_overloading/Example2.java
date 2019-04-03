@@ -1,4 +1,6 @@
-public class Main {
+package method_overloading;
+
+public class Example2 {
   static int plusMethod(int x, int y) {
     return x + y;
   }

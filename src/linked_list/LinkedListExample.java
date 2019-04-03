@@ -1,6 +1,7 @@
+package linked_list;
 import java.util.LinkedList;
 
-public class Main {
+public class LinkedListExample {
   public static void main(String[] args) {
     LinkedList<String> cars = new LinkedList<String>();
     cars.add("Volvo");

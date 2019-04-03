@@ -1,7 +1,9 @@
+package iterator;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class Main {
+public class RemovingItemsFromCollection {
   public static void main(String[] args) {
     ArrayList<Integer> numbers = new ArrayList<Integer>();
     numbers.add(12);

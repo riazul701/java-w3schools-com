@@ -1,4 +1,6 @@
-public class Main {
+package class_attributes;
+
+public class MultipleAttributes {
   String fname = "John";
   String lname = "Doe";
   int age = 24;

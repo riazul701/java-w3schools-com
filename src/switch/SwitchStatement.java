@@ -1,4 +1,6 @@
-public class Main {
+package switch;
+
+public class SwitchStatement {
   public static void main(String[] args) {
     int day = 4;
     switch (day) {

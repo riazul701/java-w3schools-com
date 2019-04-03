@@ -1,4 +1,6 @@
-class Person {
+package modifiers;
+
+class DefaultAccessModifier2 {
   String fname = "John";
   String lname = "Doe";
   String email = "john@doe.com";

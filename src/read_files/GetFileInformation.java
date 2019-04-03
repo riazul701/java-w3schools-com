@@ -1,7 +1,7 @@
-
+package read_files;
 import java.io.File;
 
-public class GetFileInfo {
+public class GetFileInformation {
   public static void main(String[] args) {
     File myObj = new File("filename.txt");
     if (myObj.exists()) {

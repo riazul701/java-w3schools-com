@@ -1,7 +1,8 @@
+package iterator;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class Main {
+public class GettingAnIterator {
   public static void main(String[] args) {
 
     // Make a collection

@@ -1,3 +1,5 @@
+package inner_classes;
+
 class OuterClass {
   int x = 10;
 
@@ -6,7 +8,7 @@ class OuterClass {
   }
 }
 
-public class Main {
+public class StaticInnerClass {
   public static void main(String[] args) {
     OuterClass.InnerClass myInner = new OuterClass.InnerClass();
     System.out.println(myInner.y);

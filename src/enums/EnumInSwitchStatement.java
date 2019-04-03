@@ -1,10 +1,12 @@
+package enums;
+
 enum Level {
   LOW,
   MEDIUM,
   HIGH
 }
 
-public class Main {
+public class EnumInSwitchStatement {
   public static void main(String[] args) {
     Level myVar = Level.MEDIUM;
 

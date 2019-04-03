@@ -1,6 +1,7 @@
+package add_two_numbers;
 import java.util.Scanner;  // Import the Scanner class
 
-public class MyClass {
+public class AddTwoNumbersWithUserInput {
   public static void main(String[] args) {
     int x, y, sum;
     Scanner myObj = new Scanner(System.in);  // Create a Scanner object

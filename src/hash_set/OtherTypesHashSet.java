@@ -1,7 +1,8 @@
+package hash_set;
 // Import the HashSet class
 import java.util.HashSet;
 
-public class Main {
+public class OtherTypesHashSet {
   public static void main(String[] args) {
 
     // Create a HashSet object called numbers

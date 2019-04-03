@@ -1,7 +1,8 @@
+package lambda;
 import java.util.ArrayList;
 import java.util.function.Consumer;
 
-public class Main {
+public class LambdaExpression2 {
   public static void main(String[] args) {
     ArrayList<Integer> numbers = new ArrayList<Integer>();
     numbers.add(5);

@@ -1,4 +1,6 @@
-public class Main {
+package variables;
+
+public class Identifiers {
   public static void main(String[] args) {
     // Good
     int minutesPerHour = 60;

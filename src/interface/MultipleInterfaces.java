@@ -1,3 +1,5 @@
+package interface;
+
 interface FirstInterface {
   public void myMethod(); // interface method
 }
@@ -16,7 +18,7 @@ class DemoClass implements FirstInterface, SecondInterface {
   }
 }
 
-class Main {
+class MultipleInterfaces {
   public static void main(String[] args) {
     DemoClass myObj = new DemoClass();
     myObj.myMethod();

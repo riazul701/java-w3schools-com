@@ -1,4 +1,6 @@
-public class Main {
+package operators.arithmetic;
+
+public class Increment {
   public static void main(String[] args) {
     int x = 5;
     ++x;

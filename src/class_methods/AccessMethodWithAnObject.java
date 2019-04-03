@@ -1,5 +1,7 @@
+package class_methods;
+
 // Create a Main class
-public class Main {
+public class AccessMethodWithAnObject {
 
   // Create a fullThrottle() method
   public void fullThrottle() {

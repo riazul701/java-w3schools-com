@@ -1,4 +1,6 @@
-public class Person {
+package encapsulation
+
+public class EncapsulationErrorPerson {
    private String name;
 
    // Getter

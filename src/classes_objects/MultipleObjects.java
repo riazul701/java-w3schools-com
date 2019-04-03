@@ -1,4 +1,6 @@
-public class Main {
+package classes_objects;
+
+public class MultipleObjects {
   int x = 5;
 
   public static void main(String[] args) {

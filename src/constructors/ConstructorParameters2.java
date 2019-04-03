@@ -1,5 +1,7 @@
+package constructors;
+
 //filename: Main.java
-public class Main {
+public class ConstructorParameters2 {
   int modelYear;
   String modelName;
 

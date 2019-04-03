@@ -1,7 +1,8 @@
+package hash_set;
 // Import the HashSet class
 import java.util.HashSet;
 
-public class Main {
+public class CheckIfAnItemExistsHashSet {
   public static void main(String[] args) {
     HashSet<String> cars = new HashSet<String>();
     cars.add("Volvo");

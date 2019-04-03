@@ -1,4 +1,6 @@
-public class Main {
+package variables;
+
+public class DeclaringVariables4 {
   public static void main(String[] args) {
     int myNum = 15;
     myNum = 20;  // myNum is now 20

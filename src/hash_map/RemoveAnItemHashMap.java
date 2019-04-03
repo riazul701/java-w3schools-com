@@ -1,6 +1,7 @@
+package hash_map;
 import java.util.HashMap;
 
-public class Main {
+public class RemoveAnItemHashMap {
   public static void main(String[] args) {
     HashMap<String, String> capitalCities = new HashMap<String, String>();
     capitalCities.put("England", "London");

@@ -1,4 +1,6 @@
-public class Main {
+package enums;
+
+public class EnumInsideAClass {
   enum Level {
     LOW,
     MEDIUM,

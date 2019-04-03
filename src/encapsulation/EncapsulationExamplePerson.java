@@ -1,4 +1,6 @@
-public class Person {
+package encapsulation;
+
+public class EncapsulationExamplePerson {
    private String name;
 
    // Getter

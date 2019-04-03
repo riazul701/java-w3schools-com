@@ -1,4 +1,6 @@
-public class Main {
+package booleans;
+
+public class BooleanValues {
   public static void main(String[] args) {
     boolean isJavaFun = true;
     boolean isFishTasty = false;

@@ -1,4 +1,6 @@
-public class Main {
+package exceptions;
+
+public class ThrowKeywordExample2 {
   static void checkAge(int age) {
     if (age < 18) {
       throw new ArithmeticException("Access denied - You must be at least 18 years old.");

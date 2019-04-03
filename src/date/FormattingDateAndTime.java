@@ -1,7 +1,8 @@
+package date;
 import java.time.LocalDateTime;  // Import the LocalDateTime class
 import java.time.format.DateTimeFormatter;  // Import the DateTimeFormatter class
 
-public class Main {
+public class FormattingDateAndTime {
   public static void main(String[] args) {
     LocalDateTime myDateObj = LocalDateTime.now();
     System.out.println("Before formatting: " + myDateObj);

@@ -1,3 +1,5 @@
+package inheritance;
+
 class Vehicle {
   protected String brand = "Ford";
   public void honk() {
@@ -5,7 +7,7 @@ class Vehicle {
   }
 }
 
-class Car extends Vehicle {
+class InheritanceExample extends Vehicle {
   private String modelName = "Mustang";
   public static void main(String[] args) {
     Car myFastCar = new Car();

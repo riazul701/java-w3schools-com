@@ -1,4 +1,6 @@
-public class Main {
+package scope;
+
+public class BlockScope {
   public static void main(String[] args) {
 
     // Code here CANNOT use x

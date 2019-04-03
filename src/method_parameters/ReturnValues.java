@@ -1,4 +1,6 @@
-public class Main {
+package method_parameters;
+
+public class ReturnValues {
   static int myMethod(int x) {
     return 5 + x;
   }

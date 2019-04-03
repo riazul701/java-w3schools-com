@@ -1,3 +1,5 @@
+package modifiers;
+
 class Person {
   protected String fname = "John";
   protected String lname = "Doe";
@@ -5,7 +7,7 @@ class Person {
   protected int age = 24;
 }
 
-class Student extends Person {
+class ProtectedAccessModifier extends Person {
   private int graduationYear = 2018;
   public static void main(String[] args) {
     Student myObj = new Student();

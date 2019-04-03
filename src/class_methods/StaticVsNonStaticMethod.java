@@ -1,4 +1,6 @@
-public class Main {
+package class_methods;
+
+public class StaticVsNonStaticMethod {
   // Static method
   static void myStaticMethod() {
     System.out.println("Static methods can be called without creating objects");

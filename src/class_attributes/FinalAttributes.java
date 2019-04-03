@@ -1,4 +1,6 @@
-public class Main {
+package class_attributes;
+
+public class FinalAttributes {
   final int x = 10;
 
   public static void main(String[] args) {

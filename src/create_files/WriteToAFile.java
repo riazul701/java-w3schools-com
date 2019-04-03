@@ -1,7 +1,9 @@
+package create_files;
+
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class WriteToFile {
+public class WriteToAFile {
   public static void main(String[] args) {
     try {
       FileWriter myWriter = new FileWriter("filename.txt");

@@ -1,4 +1,6 @@
-public class Main {
+package operators.arithmetic;
+
+public class Division {
   public static void main(String[] args) {
     int x = 12;
     int y = 3;

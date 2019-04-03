@@ -1,4 +1,6 @@
-public class Main {
+package data_types;
+
+public class ScientificNumbers {
   public static void main(String[] args) {
     float f1 = 35e3f;
     double d1 = 12E4d;

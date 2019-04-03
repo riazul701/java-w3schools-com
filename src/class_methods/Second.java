@@ -1,3 +1,5 @@
+package class_methods;
+
 class Second {
   public static void main(String[] args) {
     Main myCar = new Main();     // Create a myCar object

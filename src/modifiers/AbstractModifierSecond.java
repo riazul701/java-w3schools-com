@@ -1,4 +1,6 @@
-class Second {
+package modifiers;
+
+class AbstractModifierSecond {
   public static void main(String[] args) {
     // create an object of the Student class (which inherits attributes and methods from Main)
     Student myObj = new Student();

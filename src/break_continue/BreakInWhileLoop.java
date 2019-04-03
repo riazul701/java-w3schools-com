@@ -1,4 +1,6 @@
-public class Main {
+package break_continue;
+
+public class BreakInWhileLoop {
   public static void main(String[] args) {
     int i = 0;
     while (i < 10) {

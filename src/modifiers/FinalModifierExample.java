@@ -1,4 +1,6 @@
-public class Main {
+package modifiers;
+
+public class FinalModifierExample {
   final int x = 10;
   final double PI = 3.14;
 

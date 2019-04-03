@@ -1,5 +1,7 @@
+package constructors;
+
 // Create a Main class
-public class Main {
+public class CreateConstructor {
   int x;
 
   // Create a class constructor for the Main class

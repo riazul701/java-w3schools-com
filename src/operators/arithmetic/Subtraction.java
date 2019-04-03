@@ -1,4 +1,6 @@
-public class Main {
+package operators.arithmetic;
+
+public class Subtraction {
   public static void main(String[] args) {
     int x = 5;
     int y = 3;

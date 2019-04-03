@@ -1,4 +1,6 @@
-public class Main {
+package recursion;
+
+public class HaltingCondition {
   public static void main(String[] args) {
     int result = sum(5, 10);
     System.out.println(result);

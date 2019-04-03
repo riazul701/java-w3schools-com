@@ -1,4 +1,6 @@
-public class Main implements Runnable {
+package threads;
+
+public class ImplementThread implements Runnable {
   public static void main(String[] args) {
     Main obj = new Main();
     Thread thread = new Thread(obj);

@@ -1,4 +1,6 @@
-public class Main {
+package operators.assignment;
+
+public class MultiplicationEqual {
   public static void main(String[] args) {
     int x = 5;
     x *= 3;

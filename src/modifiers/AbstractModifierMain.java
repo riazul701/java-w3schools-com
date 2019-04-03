@@ -1,3 +1,5 @@
+package modifiers;
+
 // abstract class
 abstract class Main {
   public String fname = "John";
@@ -8,7 +10,7 @@ abstract class Main {
 }
 
 // Subclass (inherit from Person)
-class Student extends Main {
+class AbstractModifierMain extends Main {
   public int graduationYear = 2018;
   public void study() {
     System.out.println("Studying all day long");

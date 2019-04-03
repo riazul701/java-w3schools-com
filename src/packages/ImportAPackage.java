@@ -1,6 +1,7 @@
+package packages;
 import java.util.*; // import the java.util package
 
-class Main {
+class ImportAPackage {
   public static void main(String[] args) {
     Scanner myObj = new Scanner(System.in);
     String userName;

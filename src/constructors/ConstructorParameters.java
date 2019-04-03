@@ -1,4 +1,6 @@
-public class Main {
+package constructors;
+
+public class ConstructorParameters {
   int x;
 
   public Main(int y) {

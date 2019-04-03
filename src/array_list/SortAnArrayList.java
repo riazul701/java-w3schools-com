@@ -1,7 +1,8 @@
+package array_list;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Main {
+public class SortAnArrayList {
   public static void main(String[] args) {
     ArrayList<String> cars = new ArrayList<String>();
     cars.add("Volvo");

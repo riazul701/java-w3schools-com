@@ -1,4 +1,6 @@
-public class Main {
+package if_else;
+
+public class TernaryOperator2 {
   public static void main(String[] args) {
     int time = 20;
     String result;

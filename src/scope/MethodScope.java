@@ -1,4 +1,6 @@
-public class Main {
+package scope;
+
+public class MethodScope {
   public static void main(String[] args) {
 
     // Code here cannot use x

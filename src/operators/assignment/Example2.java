@@ -1,4 +1,6 @@
-public class Main {
+package operators.assignment;
+
+public class Example2 {
   public static void main(String[] args) {
     int x = 10;
     x += 5;

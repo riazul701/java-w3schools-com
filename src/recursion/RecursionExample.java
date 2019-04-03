@@ -1,4 +1,6 @@
-public class Main {
+package recursion;
+
+public class RecursionExample {
   public static void main(String[] args) {
     int result = sum(10);
     System.out.println(result);

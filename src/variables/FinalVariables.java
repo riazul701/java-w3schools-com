@@ -1,4 +1,6 @@
-public class Main {
+package variables;
+
+public class FinalVariables {
   public static void main(String[] args) {
     final int myNum = 15;
     myNum = 20; // will generate an error

@@ -1,8 +1,10 @@
+package lambda;
+
 interface StringFunction {
   String run(String str);
 }
 
-public class Main {
+public class LambdaExpression3 {
   public static void main(String[] args) {
     StringFunction exclaim = (s) -> s + "!";
     StringFunction ask = (s) -> s + "?";

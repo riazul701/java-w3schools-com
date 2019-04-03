@@ -1,6 +1,7 @@
+package delete_files;
 import java.io.File;
 
-public class DeleteFile {
+public class DeleteAFile {
   public static void main(String[] args) {
     File myObj = new File("filename.txt");
     if (myObj.delete()) {

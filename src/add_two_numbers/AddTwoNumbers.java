@@ -1,4 +1,6 @@
-public class Main {
+package add_two_numbers;
+
+public class AddTwoNumbers {
   public static void main(String[] args) {
     int x = 5;
     int y = 6;

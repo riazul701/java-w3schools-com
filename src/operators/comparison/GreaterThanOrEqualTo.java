@@ -1,4 +1,6 @@
-public class Main {
+package operators.comparison;
+
+public class GreaterThanOrEqualTo {
   public static void main(String[] args) {
     int x = 5;
     int y = 3;

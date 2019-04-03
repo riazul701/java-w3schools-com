@@ -1,3 +1,5 @@
+package inheritance;
+
 final class Vehicle {
   protected String brand = "Ford";
   public void honk() {
@@ -5,7 +7,7 @@ final class Vehicle {
   }
 }
 
-class Main extends Vehicle {
+class FinalKeyword extends Vehicle {
   private String modelName = "Mustang";
   public static void main(String[] args) {
     Main myFastCar = new Main();

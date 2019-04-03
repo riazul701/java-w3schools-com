@@ -1,4 +1,6 @@
-public class Main {
+package modifiers;
+
+public class StaticModifierExample {
   // Static method
   static void myStaticMethod() {
     System.out.println("Static methods can be called without creating objects");

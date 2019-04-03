@@ -1,4 +1,6 @@
-public class Main {
+package if_else;
+
+public class ElseIfStatement {
   public static void main(String[] args) {
     int time = 22;
     if (time < 10) {

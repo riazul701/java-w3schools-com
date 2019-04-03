@@ -1,4 +1,6 @@
-public class Main {
+package type_casting;
+
+public class WidenCasting {
   public static void main(String[] args) {
     int myInt = 9;
     double myDouble = myInt; // Automatic casting: int to double

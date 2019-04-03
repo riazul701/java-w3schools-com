@@ -1,4 +1,6 @@
-public class Main {
+package exceptions;
+
+public class FinallyStatementExample {
   public static void main(String[] args) {
     try {
       int[] myNumbers = {1, 2, 3};
