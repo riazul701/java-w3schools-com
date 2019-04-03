@@ -4,7 +4,7 @@ public class AccessingAttributes {
   int x = 5;
 
   public static void main(String[] args) {
-    Main myObj = new Main();
+    AccessingAttributes myObj = new AccessingAttributes();
     System.out.println(myObj.x);
   }
 }

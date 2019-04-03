@@ -1,4 +1,4 @@
-package interface;
+package interfaces;
 
 interface FirstInterface {
   public void myMethod(); // interface method

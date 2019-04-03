@@ -3,12 +3,12 @@ package constructors;
 public class ConstructorParameters {
   int x;
 
-  public Main(int y) {
+  public ConstructorParameters(int y) {
     x = y;
   }
 
   public static void main(String[] args) {
-    Main myObj = new Main(5);
+    ConstructorParameters myObj = new ConstructorParameters(5);
     System.out.println(myObj.x);
   }
 }

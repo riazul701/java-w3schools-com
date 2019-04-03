@@ -5,7 +5,7 @@ public class FinalModifierExample {
   final double PI = 3.14;
 
   public static void main(String[] args) {
-    Main myObj = new Main();
+    FinalModifierExample myObj = new FinalModifierExample();
     myObj.x = 50; // will generate an error
     myObj.PI = 25; // will generate an error
     System.out.println(myObj.x);

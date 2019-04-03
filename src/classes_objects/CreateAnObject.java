@@ -4,7 +4,7 @@ public class CreateAnObject {
   int x = 5;
 
   public static void main(String[] args) {
-    Main myObj = new Main();
+    CreateAnObject myObj = new CreateAnObject();
     System.out.println(myObj.x);
   }
 }

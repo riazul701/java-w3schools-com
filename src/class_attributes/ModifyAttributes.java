@@ -4,7 +4,7 @@ public class ModifyAttributes {
   int x;
 
   public static void main(String[] args) {
-    Main myObj = new Main();
+    ModifyAttributes myObj = new ModifyAttributes();
     myObj.x = 40;
     System.out.println(myObj.x);
   }

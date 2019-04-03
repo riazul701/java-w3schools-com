@@ -3,7 +3,7 @@ package modifiers;
 class AbstractModifierSecond {
   public static void main(String[] args) {
     // create an object of the Student class (which inherits attributes and methods from Main)
-    Student myObj = new Student();
+    AbstractModifierMain myObj = new AbstractModifierMain();
 
     System.out.println("Name: " + myObj.fname + " " + myObj.lname);
     System.out.println("Email: " + myObj.email);

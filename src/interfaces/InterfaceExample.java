@@ -1,4 +1,4 @@
-package interface;
+package interfaces;
 
 interface Animal {
   public void animalSound(); // interface method (does not have a body)

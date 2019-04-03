@@ -6,7 +6,7 @@ public class MultipleAttributes {
   int age = 24;
 
   public static void main(String[] args) {
-    Main myObj = new Main();
+    MultipleAttributes myObj = new MultipleAttributes();
     System.out.println("Name: " + myObj.fname + " " + myObj.lname);
     System.out.println("Age: " + myObj.age);
   }

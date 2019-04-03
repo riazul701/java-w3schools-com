@@ -2,7 +2,7 @@ package encapsulation;
 
 public class EncapsulationExampleMain {
   public static void main(String[] args) {
-    Person myObj = new Person();
+    EncapsulationExamplePerson myObj = new EncapsulationExamplePerson();
     myObj.setName("John");
     System.out.println(myObj.getName());
   }

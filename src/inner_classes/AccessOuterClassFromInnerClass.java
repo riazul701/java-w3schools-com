@@ -1,9 +1,9 @@
 package inner_classes;
 
-class OuterClass {
+class OuterClass1 {
   int x = 10;
 
-  class InnerClass {
+  class InnerClass1 {
     public int myInnerMethod() {
       return x;
     }
@@ -12,8 +12,8 @@ class OuterClass {
 
 public class AccessOuterClassFromInnerClass {
   public static void main(String[] args) {
-    OuterClass myOuter = new OuterClass();
-    OuterClass.InnerClass myInner = myOuter.new InnerClass();
+    OuterClass1 myOuter = new OuterClass1();
+    OuterClass1.InnerClass1 myInner = myOuter.new InnerClass1();
     System.out.println(myInner.myInnerMethod());
   }
 }

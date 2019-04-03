@@ -1,4 +1,4 @@
-package encapsulation
+package encapsulation;
 
 public class EncapsulationErrorPerson {
    private String name;

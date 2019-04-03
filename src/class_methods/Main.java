@@ -1,4 +1,4 @@
-package class_attributes;
+package class_methods;
 
 public class Main {
   public void fullThrottle() {

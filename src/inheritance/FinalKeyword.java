@@ -10,7 +10,7 @@ final class Vehicle {
 class FinalKeyword extends Vehicle {
   private String modelName = "Mustang";
   public static void main(String[] args) {
-    Main myFastCar = new Main();
+    FinalKeyword myFastCar = new FinalKeyword();
     myFastCar.honk();
     System.out.println(myFastCar.brand + " " + myFastCar.modelName);
   }
