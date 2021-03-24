@@ -1,4 +1,4 @@
-package ploymorphism;
+package polymorphism;
 
 class Animal {
   public void animalSound() {

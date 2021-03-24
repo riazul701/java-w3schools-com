@@ -4,7 +4,7 @@ public class ConcurrencyProblems2 extends Thread {
   public static int amount = 0;
 
   public static void main(String[] args) {
-    Main thread = new Main();
+    ConcurrencyProblems2 thread = new ConcurrencyProblems2();
     thread.start();
     // Wait for the thread to finish
     while(thread.isAlive()) {

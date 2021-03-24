@@ -1,4 +1,4 @@
-package switch;
+package switches;
 
 public class DefaultKeyword {
   public static void main(String[] args) {
